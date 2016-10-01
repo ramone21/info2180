@@ -1,0 +1,49 @@
+
+img {
+    position: absolute;
+    top: 30px;
+    right: 120px;
+    width: 250px;
+    height: 320px;
+    transform: rotate(353deg);
+}
+ 
+p {
+    font-family: Arial;
+    font-size: 15px;
+    color: grey;
+}
+#paragraph {
+    font-family: arial;
+}
+.border {
+    border-right: 1px solid black;
+
+}
+div {
+    display: block;
+    margin: -2em 0em 2em 13em;
+    padding-left: 1em;
+    border-left: 0.1em solid grey;
+}
+
+span {
+    color: black;
+    font-weight: bold;
+}
+
+
+html {
+    padding: 40px 40px 40px 40px;
+    border: 4px dotted black;+
+}
+
+.type {
+    padding-left: 80px;
+}
+
+em {
+    color:grey;
+    float: right;
+    margin-right: 30em;
+}
